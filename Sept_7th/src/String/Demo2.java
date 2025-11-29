@@ -52,7 +52,7 @@ public class Demo2 {
    System.out.println(A.substring(1,4));
    System.out.println("=========================lASTINDEXOF =======================");
    
-   
+   System.out.println("=========================test123 =======================");
 System.out.println(A.lastIndexOf("C"));
 	}
 
